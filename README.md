@@ -13,3 +13,5 @@ All You Need Is Your Cookie :3
 
 Give This 50 Stars And Ill Release It!
 
+https://discord.gg/FASNfhRrXB
+Join To Follow Along With Random Projects!
