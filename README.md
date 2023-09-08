@@ -10,8 +10,10 @@ make an account https://textnow.com
 login. send a message to a random number. get the cookie from the request.
 
 All You Need Is Your Cookie :3 
+username 
+and X-Csrf-Token.
 
-Give This 50 Stars And Ill Release It!
+its in the request headers when u send a message.
 
 https://discord.gg/FASNfhRrXB
 Join To Follow Along With Random Projects!
