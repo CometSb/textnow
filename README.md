@@ -1,2 +1,15 @@
 # textnow
-Send Text Messages With Text Now! This Free Tool Will Allow You To Message Anyone You Want! 
+Send Text Messages With Python!
+
+With This You Can Send Text Messages With Python And Textnow!
+
+i got bored so i decided to make this lmao
+
+make an account https://textnow.com
+
+login. send a message to a random number. get the cookie from the request.
+
+All You Need Is Your Cookie :3 
+
+Give This 50 Stars And Ill Release It!
+
